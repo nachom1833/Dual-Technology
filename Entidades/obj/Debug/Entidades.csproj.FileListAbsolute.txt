@@ -1,0 +1,42 @@
+C:\Users\kevin\Downloads\Tifecommerce_1.2\Tifecommerce\Entidades\bin\Debug\Entidades.dll
+C:\Users\kevin\Downloads\Tifecommerce_1.2\Tifecommerce\Entidades\bin\Debug\Entidades.pdb
+C:\Users\kevin\Downloads\Tifecommerce_1.2\Tifecommerce\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\Tifecommerce_1.2\Tifecommerce\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\Tifecommerce_1.2\Tifecommerce\Entidades\obj\Debug\Entidades.dll
+C:\Users\kevin\Downloads\Tifecommerce_1.2\Tifecommerce\Entidades\obj\Debug\Entidades.pdb
+C:\Users\kevin\Downloads\Tifecommerce_1.2 (2)\Tifecommerce_1.2\Tifecommerce\Entidades\bin\Debug\Entidades.dll
+C:\Users\kevin\Downloads\Tifecommerce_1.2 (2)\Tifecommerce_1.2\Tifecommerce\Entidades\bin\Debug\Entidades.pdb
+C:\Users\kevin\Downloads\Tifecommerce_1.2 (2)\Tifecommerce_1.2\Tifecommerce\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\Tifecommerce_1.2 (2)\Tifecommerce_1.2\Tifecommerce\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\Tifecommerce_1.2 (2)\Tifecommerce_1.2\Tifecommerce\Entidades\obj\Debug\Entidades.dll
+C:\Users\kevin\Downloads\Tifecommerce_1.2 (2)\Tifecommerce_1.2\Tifecommerce\Entidades\obj\Debug\Entidades.pdb
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\Entidades\obj\Debug\Entidades.dll
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\Entidades\obj\Debug\Entidades.pdb
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\Entidades\bin\Debug\Entidades.dll
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\Entidades\bin\Debug\Entidades.pdb
+C:\Users\kevin\Downloads\Tifecommerce\Entidades\bin\Debug\Entidades.dll
+C:\Users\kevin\Downloads\Tifecommerce\Entidades\bin\Debug\Entidades.pdb
+C:\Users\kevin\Downloads\Tifecommerce\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\Tifecommerce\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\Tifecommerce\Entidades\obj\Debug\Entidades.dll
+C:\Users\kevin\Downloads\Tifecommerce\Entidades\obj\Debug\Entidades.pdb
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\acer\Videos\Facultad\Año2\Progr 3\ProyectoFinal_DualTechnology_Grupo8\ProyectoFinal_Grupo8\Entidades\bin\Debug\Entidades.dll
+C:\Users\acer\Videos\Facultad\Año2\Progr 3\ProyectoFinal_DualTechnology_Grupo8\ProyectoFinal_Grupo8\Entidades\bin\Debug\Entidades.pdb
+C:\Users\acer\Videos\Facultad\Año2\Progr 3\ProyectoFinal_DualTechnology_Grupo8\ProyectoFinal_Grupo8\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\acer\Videos\Facultad\Año2\Progr 3\ProyectoFinal_DualTechnology_Grupo8\ProyectoFinal_Grupo8\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\acer\Videos\Facultad\Año2\Progr 3\ProyectoFinal_DualTechnology_Grupo8\ProyectoFinal_Grupo8\Entidades\obj\Debug\Entidades.dll
+C:\Users\acer\Videos\Facultad\Año2\Progr 3\ProyectoFinal_DualTechnology_Grupo8\ProyectoFinal_Grupo8\Entidades\obj\Debug\Entidades.pdb

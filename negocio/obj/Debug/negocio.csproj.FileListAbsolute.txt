@@ -1,0 +1,253 @@
+C:\Users\kevin\Downloads\Tifecommerce_1.2\Tifecommerce\negocio\bin\Debug\negocio.dll
+C:\Users\kevin\Downloads\Tifecommerce_1.2\Tifecommerce\negocio\bin\Debug\negocio.pdb
+C:\Users\kevin\Downloads\Tifecommerce_1.2\Tifecommerce\negocio\bin\Debug\Dao.dll
+C:\Users\kevin\Downloads\Tifecommerce_1.2\Tifecommerce\negocio\bin\Debug\Entidades.dll
+C:\Users\kevin\Downloads\Tifecommerce_1.2\Tifecommerce\negocio\bin\Debug\Dao.pdb
+C:\Users\kevin\Downloads\Tifecommerce_1.2\Tifecommerce\negocio\bin\Debug\Entidades.pdb
+C:\Users\kevin\Downloads\Tifecommerce_1.2\Tifecommerce\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\Tifecommerce_1.2\Tifecommerce\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\Tifecommerce_1.2\Tifecommerce\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\kevin\Downloads\Tifecommerce_1.2\Tifecommerce\negocio\obj\Debug\negocio.dll
+C:\Users\kevin\Downloads\Tifecommerce_1.2\Tifecommerce\negocio\obj\Debug\negocio.pdb
+C:\Users\kevin\Downloads\Tifecommerce_1.2 (2)\Tifecommerce_1.2\Tifecommerce\negocio\bin\Debug\negocio.dll
+C:\Users\kevin\Downloads\Tifecommerce_1.2 (2)\Tifecommerce_1.2\Tifecommerce\negocio\bin\Debug\negocio.pdb
+C:\Users\kevin\Downloads\Tifecommerce_1.2 (2)\Tifecommerce_1.2\Tifecommerce\negocio\bin\Debug\Dao.dll
+C:\Users\kevin\Downloads\Tifecommerce_1.2 (2)\Tifecommerce_1.2\Tifecommerce\negocio\bin\Debug\Entidades.dll
+C:\Users\kevin\Downloads\Tifecommerce_1.2 (2)\Tifecommerce_1.2\Tifecommerce\negocio\bin\Debug\Dao.pdb
+C:\Users\kevin\Downloads\Tifecommerce_1.2 (2)\Tifecommerce_1.2\Tifecommerce\negocio\bin\Debug\Entidades.pdb
+C:\Users\kevin\Downloads\Tifecommerce_1.2 (2)\Tifecommerce_1.2\Tifecommerce\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\Tifecommerce_1.2 (2)\Tifecommerce_1.2\Tifecommerce\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\Tifecommerce_1.2 (2)\Tifecommerce_1.2\Tifecommerce\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\kevin\Downloads\Tifecommerce_1.2 (2)\Tifecommerce_1.2\Tifecommerce\negocio\obj\Debug\negocio.dll
+C:\Users\kevin\Downloads\Tifecommerce_1.2 (2)\Tifecommerce_1.2\Tifecommerce\negocio\obj\Debug\negocio.pdb
+C:\Users\54113\OneDrive\Documentos\Programacion\prog 3\ProyectoFinal\Tifecommerce\negocio\bin\Debug\negocio.dll
+C:\Users\54113\OneDrive\Documentos\Programacion\prog 3\ProyectoFinal\Tifecommerce\negocio\bin\Debug\negocio.pdb
+C:\Users\54113\OneDrive\Documentos\Programacion\prog 3\ProyectoFinal\Tifecommerce\negocio\bin\Debug\Dao.dll
+C:\Users\54113\OneDrive\Documentos\Programacion\prog 3\ProyectoFinal\Tifecommerce\negocio\bin\Debug\Entidades.dll
+C:\Users\54113\OneDrive\Documentos\Programacion\prog 3\ProyectoFinal\Tifecommerce\negocio\bin\Debug\Dao.pdb
+C:\Users\54113\OneDrive\Documentos\Programacion\prog 3\ProyectoFinal\Tifecommerce\negocio\bin\Debug\Entidades.pdb
+C:\Users\54113\OneDrive\Documentos\Programacion\prog 3\ProyectoFinal\Tifecommerce\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\54113\OneDrive\Documentos\Programacion\prog 3\ProyectoFinal\Tifecommerce\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\54113\OneDrive\Documentos\Programacion\prog 3\ProyectoFinal\Tifecommerce\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\54113\OneDrive\Documentos\Programacion\prog 3\ProyectoFinal\Tifecommerce\negocio\obj\Debug\negocio.dll
+C:\Users\54113\OneDrive\Documentos\Programacion\prog 3\ProyectoFinal\Tifecommerce\negocio\obj\Debug\negocio.pdb
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.dll
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.pdb
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\negocio\bin\Debug\negocio.dll
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\negocio\bin\Debug\negocio.pdb
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\negocio\bin\Debug\Dao.dll
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\negocio\bin\Debug\Entidades.dll
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\negocio\bin\Debug\Dao.pdb
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\negocio\bin\Debug\Entidades.pdb
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\Tifecommerce\negocio\bin\Debug\negocio.dll
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\Tifecommerce\negocio\bin\Debug\negocio.pdb
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\Tifecommerce\negocio\bin\Debug\Dao.dll
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\Tifecommerce\negocio\bin\Debug\Entidades.dll
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\Tifecommerce\negocio\bin\Debug\Dao.pdb
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\Tifecommerce\negocio\bin\Debug\Entidades.pdb
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.dll
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.pdb
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\negocio\bin\Debug\negocio.dll
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\negocio\bin\Debug\negocio.pdb
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\negocio\bin\Debug\Dao.dll
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\negocio\bin\Debug\Entidades.dll
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\negocio\bin\Debug\Dao.pdb
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\negocio\bin\Debug\Entidades.pdb
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.dll
+C:\Users\soluc\Downloads\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.pdb
+C:\Users\nacho\Desktop\Tifecommerce\negocio\bin\Debug\negocio.dll
+C:\Users\nacho\Desktop\Tifecommerce\negocio\bin\Debug\negocio.pdb
+C:\Users\nacho\Desktop\Tifecommerce\negocio\bin\Debug\Dao.dll
+C:\Users\nacho\Desktop\Tifecommerce\negocio\bin\Debug\Entidades.dll
+C:\Users\nacho\Desktop\Tifecommerce\negocio\bin\Debug\Dao.pdb
+C:\Users\nacho\Desktop\Tifecommerce\negocio\bin\Debug\Entidades.pdb
+C:\Users\nacho\Desktop\Tifecommerce\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\nacho\Desktop\Tifecommerce\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Desktop\Tifecommerce\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\nacho\Desktop\Tifecommerce\negocio\obj\Debug\negocio.dll
+C:\Users\nacho\Desktop\Tifecommerce\negocio\obj\Debug\negocio.pdb
+C:\Users\kevin\Downloads\Tifecommerce\negocio\bin\Debug\negocio.dll
+C:\Users\kevin\Downloads\Tifecommerce\negocio\bin\Debug\negocio.pdb
+C:\Users\kevin\Downloads\Tifecommerce\negocio\bin\Debug\Dao.dll
+C:\Users\kevin\Downloads\Tifecommerce\negocio\bin\Debug\Entidades.dll
+C:\Users\kevin\Downloads\Tifecommerce\negocio\bin\Debug\Dao.pdb
+C:\Users\kevin\Downloads\Tifecommerce\negocio\bin\Debug\Entidades.pdb
+C:\Users\kevin\Downloads\Tifecommerce\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\Tifecommerce\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\Tifecommerce\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\kevin\Downloads\Tifecommerce\negocio\obj\Debug\negocio.dll
+C:\Users\kevin\Downloads\Tifecommerce\negocio\obj\Debug\negocio.pdb
+C:\Users\nacho\Desktop\Nueva carpeta (5)\Tifecommerce\negocio\bin\Debug\negocio.dll
+C:\Users\nacho\Desktop\Nueva carpeta (5)\Tifecommerce\negocio\bin\Debug\negocio.pdb
+C:\Users\nacho\Desktop\Nueva carpeta (5)\Tifecommerce\negocio\bin\Debug\Dao.dll
+C:\Users\nacho\Desktop\Nueva carpeta (5)\Tifecommerce\negocio\bin\Debug\Entidades.dll
+C:\Users\nacho\Desktop\Nueva carpeta (5)\Tifecommerce\negocio\bin\Debug\Dao.pdb
+C:\Users\nacho\Desktop\Nueva carpeta (5)\Tifecommerce\negocio\bin\Debug\Entidades.pdb
+C:\Users\nacho\Desktop\Nueva carpeta (5)\Tifecommerce\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\nacho\Desktop\Nueva carpeta (5)\Tifecommerce\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Desktop\Nueva carpeta (5)\Tifecommerce\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\nacho\Desktop\Nueva carpeta (5)\Tifecommerce\negocio\obj\Debug\negocio.dll
+C:\Users\nacho\Desktop\Nueva carpeta (5)\Tifecommerce\negocio\obj\Debug\negocio.pdb
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\negocio\bin\Debug\negocio.dll
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\negocio\bin\Debug\negocio.pdb
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\negocio\bin\Debug\Dao.dll
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\negocio\bin\Debug\Entidades.dll
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\negocio\bin\Debug\Dao.pdb
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\negocio\bin\Debug\Entidades.pdb
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.dll
+C:\Users\kevin\Downloads\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.pdb
+C:\Users\nacho\Desktop\Tifecommerce\Tifecommerce\negocio\bin\Debug\negocio.dll
+C:\Users\nacho\Desktop\Tifecommerce\Tifecommerce\negocio\bin\Debug\negocio.pdb
+C:\Users\nacho\Desktop\Tifecommerce\Tifecommerce\negocio\bin\Debug\Dao.dll
+C:\Users\nacho\Desktop\Tifecommerce\Tifecommerce\negocio\bin\Debug\Entidades.dll
+C:\Users\nacho\Desktop\Tifecommerce\Tifecommerce\negocio\bin\Debug\Dao.pdb
+C:\Users\nacho\Desktop\Tifecommerce\Tifecommerce\negocio\bin\Debug\Entidades.pdb
+C:\Users\nacho\Desktop\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\nacho\Desktop\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Desktop\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\nacho\Desktop\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.dll
+C:\Users\nacho\Desktop\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.pdb
+C:\Users\54113\OneDrive\Documentos\Programacion\Temporales\Tifecommerce\Tifecommerce\negocio\bin\Debug\negocio.dll
+C:\Users\54113\OneDrive\Documentos\Programacion\Temporales\Tifecommerce\Tifecommerce\negocio\bin\Debug\negocio.pdb
+C:\Users\54113\OneDrive\Documentos\Programacion\Temporales\Tifecommerce\Tifecommerce\negocio\bin\Debug\Dao.dll
+C:\Users\54113\OneDrive\Documentos\Programacion\Temporales\Tifecommerce\Tifecommerce\negocio\bin\Debug\Entidades.dll
+C:\Users\54113\OneDrive\Documentos\Programacion\Temporales\Tifecommerce\Tifecommerce\negocio\bin\Debug\Dao.pdb
+C:\Users\54113\OneDrive\Documentos\Programacion\Temporales\Tifecommerce\Tifecommerce\negocio\bin\Debug\Entidades.pdb
+C:\Users\54113\OneDrive\Documentos\Programacion\Temporales\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\54113\OneDrive\Documentos\Programacion\Temporales\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\54113\OneDrive\Documentos\Programacion\Temporales\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\54113\OneDrive\Documentos\Programacion\Temporales\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.dll
+C:\Users\54113\OneDrive\Documentos\Programacion\Temporales\Tifecommerce\Tifecommerce\negocio\obj\Debug\negocio.pdb
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\negocio\bin\Debug\negocio.dll
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\negocio\bin\Debug\negocio.pdb
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Dao.dll
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Entidades.dll
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Dao.pdb
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Entidades.pdb
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.dll
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.pdb
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\negocio.dll
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\negocio.pdb
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Dao.dll
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Entidades.dll
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Dao.pdb
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Entidades.pdb
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.dll
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.pdb
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\negocio.dll
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\negocio.pdb
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Dao.dll
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Entidades.dll
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Dao.pdb
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Entidades.pdb
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.dll
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.pdb
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\negocio.dll
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\negocio.pdb
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Dao.dll
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Entidades.dll
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Dao.pdb
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Entidades.pdb
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.dll
+C:\Users\soluc\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.pdb
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\negocio.dll
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\negocio.pdb
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Dao.dll
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Entidades.dll
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Dao.pdb
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Entidades.pdb
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.dll
+C:\Users\kevin\Downloads\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.pdb
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\negocio.dll
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\negocio.pdb
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Dao.dll
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Entidades.dll
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Dao.pdb
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Entidades.pdb
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.dll
+C:\Users\kevin\Desktop\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.pdb
+C:\Users\nacho\Desktop\ProyectoEcommerceVersionFinal\negocio\bin\Debug\negocio.dll
+C:\Users\nacho\Desktop\ProyectoEcommerceVersionFinal\negocio\bin\Debug\negocio.pdb
+C:\Users\nacho\Desktop\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Dao.dll
+C:\Users\nacho\Desktop\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Entidades.dll
+C:\Users\nacho\Desktop\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Dao.pdb
+C:\Users\nacho\Desktop\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Entidades.pdb
+C:\Users\nacho\Desktop\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\nacho\Desktop\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Desktop\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\nacho\Desktop\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.dll
+C:\Users\nacho\Desktop\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.pdb
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\negocio.dll
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\negocio.pdb
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Dao.dll
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Entidades.dll
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Dao.pdb
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Entidades.pdb
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.dll
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.pdb
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\negocio.dll
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\negocio.pdb
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Dao.dll
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Entidades.dll
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Dao.pdb
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\bin\Debug\Entidades.pdb
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.dll
+C:\Users\kevin\Downloads\ahora es personal\ProyectoEcommerceVersionFinal\ProyectoEcommerceVersionFinal\negocio\obj\Debug\negocio.pdb
+C:\Users\nacho\Desktop\ProyectoFinal_Grupo8\negocio\bin\Debug\negocio.dll
+C:\Users\nacho\Desktop\ProyectoFinal_Grupo8\negocio\bin\Debug\negocio.pdb
+C:\Users\nacho\Desktop\ProyectoFinal_Grupo8\negocio\bin\Debug\Dao.dll
+C:\Users\nacho\Desktop\ProyectoFinal_Grupo8\negocio\bin\Debug\Entidades.dll
+C:\Users\nacho\Desktop\ProyectoFinal_Grupo8\negocio\bin\Debug\Dao.pdb
+C:\Users\nacho\Desktop\ProyectoFinal_Grupo8\negocio\bin\Debug\Entidades.pdb
+C:\Users\nacho\Desktop\ProyectoFinal_Grupo8\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\nacho\Desktop\ProyectoFinal_Grupo8\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\nacho\Desktop\ProyectoFinal_Grupo8\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\nacho\Desktop\ProyectoFinal_Grupo8\negocio\obj\Debug\negocio.dll
+C:\Users\nacho\Desktop\ProyectoFinal_Grupo8\negocio\obj\Debug\negocio.pdb
+C:\Users\acer\Videos\Facultad\Año2\Progr 3\ProyectoFinal_DualTechnology_Grupo8\ProyectoFinal_Grupo8\negocio\bin\Debug\negocio.dll
+C:\Users\acer\Videos\Facultad\Año2\Progr 3\ProyectoFinal_DualTechnology_Grupo8\ProyectoFinal_Grupo8\negocio\bin\Debug\negocio.pdb
+C:\Users\acer\Videos\Facultad\Año2\Progr 3\ProyectoFinal_DualTechnology_Grupo8\ProyectoFinal_Grupo8\negocio\bin\Debug\Dao.dll
+C:\Users\acer\Videos\Facultad\Año2\Progr 3\ProyectoFinal_DualTechnology_Grupo8\ProyectoFinal_Grupo8\negocio\bin\Debug\Entidades.dll
+C:\Users\acer\Videos\Facultad\Año2\Progr 3\ProyectoFinal_DualTechnology_Grupo8\ProyectoFinal_Grupo8\negocio\bin\Debug\Dao.pdb
+C:\Users\acer\Videos\Facultad\Año2\Progr 3\ProyectoFinal_DualTechnology_Grupo8\ProyectoFinal_Grupo8\negocio\bin\Debug\Entidades.pdb
+C:\Users\acer\Videos\Facultad\Año2\Progr 3\ProyectoFinal_DualTechnology_Grupo8\ProyectoFinal_Grupo8\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\acer\Videos\Facultad\Año2\Progr 3\ProyectoFinal_DualTechnology_Grupo8\ProyectoFinal_Grupo8\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\acer\Videos\Facultad\Año2\Progr 3\ProyectoFinal_DualTechnology_Grupo8\ProyectoFinal_Grupo8\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\acer\Videos\Facultad\Año2\Progr 3\ProyectoFinal_DualTechnology_Grupo8\ProyectoFinal_Grupo8\negocio\obj\Debug\negocio.dll
+C:\Users\acer\Videos\Facultad\Año2\Progr 3\ProyectoFinal_DualTechnology_Grupo8\ProyectoFinal_Grupo8\negocio\obj\Debug\negocio.pdb
